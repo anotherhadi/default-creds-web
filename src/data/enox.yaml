@@ -1,7 +1,0 @@
-name: Enox
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: xo11nE
-  comment: 'Access: Console | Privs: Admin'

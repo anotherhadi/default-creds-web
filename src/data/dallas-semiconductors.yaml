@@ -1,7 +1,0 @@
-name: Dallas Semiconductors
-entries:
-- name: TINI embedded JAVA Module
-  version: <= 1.0
-  user: root
-  pass: tini
-  comment: 'Access: Telnet | Privs: Admin'

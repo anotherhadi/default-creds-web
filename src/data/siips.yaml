@@ -1,7 +1,0 @@
-name: Siips
-entries:
-- name: Trojan
-  version: '8974202'
-  user: Administrator
-  pass: ganteng
-  comment: 'Access: Multi | Privs: Admin'

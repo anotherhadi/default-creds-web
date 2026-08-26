@@ -1,7 +1,0 @@
-name: AirLink Plus
-entries:
-- name: RTW026
-  version: V0.80.0010 (firmware)
-  user: ''
-  pass: admin
-  comment: 'Access: HTTP | Privs: Administrator'

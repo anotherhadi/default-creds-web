@@ -1,7 +1,0 @@
-name: stratacom
-entries:
-- name: all
-  version: all
-  user: stratacom
-  pass: stratauser
-  comment: 'Access: Multi | Privs: Admin'

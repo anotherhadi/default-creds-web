@@ -1,7 +1,0 @@
-name: The qBittorrent project
-entries:
-- name: qBittorrent Web UI
-  version: ANY
-  user: admin
-  pass: adminadmin
-  comment: 'Access: HTTP | Privs: Administrator | https://github.com/qbittorrent/qBittorrent/blob/master/doc/qbittorrent-nox.1.md#description'

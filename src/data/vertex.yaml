@@ -1,7 +1,0 @@
-name: Vertex
-entries:
-- name: VERTEX 1501
-  version: '5.05'
-  user: root
-  pass: vertex25
-  comment: 'Privs: Administrator'

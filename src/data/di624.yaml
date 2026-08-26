@@ -1,7 +1,0 @@
-name: DI624
-entries:
-- name: D-LINK
-  version: C3
-  user: admin
-  pass: password
-  comment: 'Access: HTTP | Privs: Admin | hardcoded for Verizon FiOS'

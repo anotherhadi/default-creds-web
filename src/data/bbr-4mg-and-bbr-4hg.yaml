@@ -1,7 +1,0 @@
-name: BBR-4MG and BBR-4HG
-entries:
-- name: Buffalo
-  version: ALL
-  user: root
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

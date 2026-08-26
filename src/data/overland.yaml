@@ -1,8 +1,0 @@
-name: Overland
-entries:
-- name: NEO Series Libraries
-  version: all
-  user: Factory
-  pass: '56789'
-  comment: 'Access: Multi | Privs: Admin | Factory password under Utilities. For all
-    functions unlocked.'

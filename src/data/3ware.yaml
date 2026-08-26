@@ -1,7 +1,0 @@
-name: 3ware
-entries:
-- name: 3DM
-  version: all
-  user: Administrator
-  pass: 3ware
-  comment: 'Access: HTTP | Privs: Admin'

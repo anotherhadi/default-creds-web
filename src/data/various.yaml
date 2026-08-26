@@ -1,7 +1,0 @@
-name: Various
-entries:
-- name: DD-WRT
-  version: v23 SP1 Final
-  user: root
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin | Alternative firmware'

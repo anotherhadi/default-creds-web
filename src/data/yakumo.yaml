@@ -1,7 +1,0 @@
-name: Yakumo
-entries:
-- name: Routers
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin'

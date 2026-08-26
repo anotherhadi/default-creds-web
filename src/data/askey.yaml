@@ -1,7 +1,0 @@
-name: Askey
-entries:
-- name: RTF8115VW
-  version: REV5
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: admin | 192.168.1.1'

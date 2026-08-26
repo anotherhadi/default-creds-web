@@ -1,7 +1,0 @@
-name: Autodesk
-entries:
-- name: Autocad
-  version: all
-  user: autocad
-  pass: autocad
-  comment: 'Access: Multi | Privs: User'

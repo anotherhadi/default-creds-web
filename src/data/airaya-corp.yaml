@@ -1,7 +1,0 @@
-name: AIRAYA Corp
-entries:
-- name: AIRAYA WirelessGRID
-  version: all
-  user: Airaya
-  pass: Airaya
-  comment: 'Privs: Administrator | The default IP address is 192.168.1.70. | http://www.airaya.com/support/guides/WirelessGRID-Manual_O.pdf'

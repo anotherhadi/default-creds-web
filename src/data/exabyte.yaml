@@ -1,7 +1,0 @@
-name: Exabyte
-entries:
-- name: Magnum20
-  version: all
-  user: anonymous
-  pass: Exabyte
-  comment: 'Access: FTP | Privs: Admin'

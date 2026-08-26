@@ -1,8 +1,0 @@
-name: Cisco-Arrowpoint
-icon: cisco
-entries:
-- name: Arrowpoint
-  version: all
-  user: admin
-  pass: system
-  comment: 'Privs: Admin'

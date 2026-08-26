@@ -1,7 +1,0 @@
-name: IronPort
-entries:
-- name: Messaging Gateway Appliance
-  version: all
-  user: admin
-  pass: ironport
-  comment: 'Access: Multi | Privs: Admin'

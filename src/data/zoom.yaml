@@ -1,7 +1,0 @@
-name: ZOOM
-entries:
-- name: ZOOM ADSL Modem
-  version: all
-  user: admin
-  pass: zoomadsl
-  comment: 'Access: Console | Privs: Admin'

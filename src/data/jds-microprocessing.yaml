@@ -1,7 +1,0 @@
-name: JDS Microprocessing
-entries:
-- name: Hydra 3000
-  version: r2.02
-  user: hydrasna
-  pass: ''
-  comment: 'Access: Console | Privs: Admin | www.hydrasystems.com/h3kdocs/H3R25C04.pdf'

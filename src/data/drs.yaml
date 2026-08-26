@@ -1,7 +1,0 @@
-name: Drs
-entries:
-- name: IP Camera system
-  version: all
-  user: admin
-  pass: '1234'
-  comment: 'Access: HTTP'

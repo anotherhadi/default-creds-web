@@ -1,7 +1,0 @@
-name: GarrettCom
-entries:
-- name: Magnum Switch
-  version: all
-  user: manager
-  pass: manager
-  comment: 'Access: HTTP | https://garrettcom-support.belden.com/en/kb/articles/reset-password-or-lost-manager-password-2'

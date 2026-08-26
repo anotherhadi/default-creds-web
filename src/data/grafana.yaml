@@ -1,8 +1,0 @@
-name: Grafana
-icon: grafana
-entries:
-- name: Grafana
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: Web UI | Privs: Admin'

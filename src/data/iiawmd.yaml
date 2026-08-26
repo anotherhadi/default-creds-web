@@ -1,7 +1,0 @@
-name: Iiawmd
-entries:
-- name: web page
-  version: all
-  user: ''
-  pass: ''
-  comment: 'Access: HTTP | Privs: User'

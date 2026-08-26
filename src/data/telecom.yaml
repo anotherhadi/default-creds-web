@@ -1,7 +1,0 @@
-name: telecom
-entries:
-- name: home hauwei
-  version: all
-  user: operator
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

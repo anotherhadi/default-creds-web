@@ -1,7 +1,0 @@
-name: BBR-4MG and
-entries:
-- name: BUFFALO
-  version: ALL
-  user: root
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

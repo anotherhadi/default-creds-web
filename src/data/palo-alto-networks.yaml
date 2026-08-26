@@ -1,7 +1,0 @@
-name: Palo Alto Networks
-entries:
-- name: GlobalProtect Gateway
-  version: ANY
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP/CLI | Privs: Administrator | https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-admin/getting-started/integrate-the-firewall-into-your-management-network/perform-initial-configuration.html'

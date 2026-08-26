@@ -1,7 +1,0 @@
-name: NCR
-entries:
-- name: NCR UNIX
-  version: all
-  user: ncrm
-  pass: ncrm
-  comment: 'Access: Multi | Privs: Admin'

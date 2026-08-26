@@ -1,7 +1,0 @@
-name: Swissvoice
-entries:
-- name: IP 10S
-  version: all
-  user: target
-  pass: password
-  comment: 'Access: Telnet | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Elron
-entries:
-- name: Firewall
-  version: 2.5c
-  user: hostname/ ip address
-  pass: sysadmin
-  comment: 'Privs: Admin'

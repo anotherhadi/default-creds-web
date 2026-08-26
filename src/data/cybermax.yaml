@@ -1,7 +1,0 @@
-name: CyberMax
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: Congress
-  comment: 'Access: Console | Privs: Admin'

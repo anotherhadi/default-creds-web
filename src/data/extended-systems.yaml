@@ -1,7 +1,0 @@
-name: Extended Systems
-entries:
-- name: Print Servers
-  version: all
-  user: admin
-  pass: extendnet
-  comment: 'Privs: Admin'

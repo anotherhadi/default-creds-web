@@ -1,7 +1,0 @@
-name: JDS
-entries:
-- name: Hydra 3000
-  version: r2.02
-  user: hydrasna
-  pass: ''
-  comment: 'Access: Console | Privs: Admin | www.hydrasystems.com/'

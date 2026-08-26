@@ -1,7 +1,0 @@
-name: NOMADIX
-entries:
-- name: AG5000
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: Telnet | Privs: Admin'

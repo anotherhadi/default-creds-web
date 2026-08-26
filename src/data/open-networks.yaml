@@ -1,7 +1,0 @@
-name: OPEN Networks
-entries:
-- name: 812L
-  version: all
-  user: root
-  pass: 0P3N
-  comment: 'Access: HTTP | Privs: Admin'

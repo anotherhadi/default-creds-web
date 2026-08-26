@@ -1,7 +1,0 @@
-name: penril datability
-entries:
-- name: vcp300 terminal server
-  version: all
-  user: ''
-  pass: system
-  comment: 'Access: Multi | Privs: Admin'

@@ -1,7 +1,0 @@
-name: SpeedXess
-entries:
-- name: HASE-120
-  version: all
-  user: ''
-  pass: speedxess
-  comment: 'Access: Multi | Privs: Admin'

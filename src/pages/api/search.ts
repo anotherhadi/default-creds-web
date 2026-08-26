@@ -2,6 +2,7 @@ import type { APIRoute } from "astro";
 import fs from "node:fs";
 import path from "node:path";
 import yaml from "js-yaml";
+import { DATA_DIR, onDataUpdated } from "../../lib/data-sync";
 
 export interface CredentialEntry {
   manufacturer: string;
@@ -16,6 +17,9 @@ export interface CredentialEntry {
 }
 
 let cachedData: CredentialEntry[] | null = null;
+onDataUpdated(() => {
+  cachedData = null;
+});
 
 // Simple Icons slugs are lowercase letters, digits, and hyphens only.
 // e.g. "cisco", "tp-link", "d-link"
@@ -31,20 +35,18 @@ function sanitizeIcon(raw: unknown): string {
 export function getAllData(): CredentialEntry[] {
   if (cachedData) return cachedData;
 
-  const dataDir = path.join(process.cwd(), "src", "data");
-
-  if (!fs.existsSync(dataDir)) {
-    console.warn(`Data directory not found at ${dataDir}`);
+  if (!fs.existsSync(DATA_DIR)) {
+    console.warn(`Data directory not found at ${DATA_DIR}`);
     return [];
   }
 
-  const files = fs.readdirSync(dataDir);
+  const files = fs.readdirSync(DATA_DIR);
   const allResults: CredentialEntry[] = [];
 
   for (const file of files) {
     if (file.endsWith(".yaml") || file.endsWith(".yml")) {
       try {
-        const content = fs.readFileSync(path.join(dataDir, file), "utf8");
+        const content = fs.readFileSync(path.join(DATA_DIR, file), "utf8");
         const doc = yaml.load(content) as any;
 
         if (!doc || !doc.entries || !Array.isArray(doc.entries)) continue;

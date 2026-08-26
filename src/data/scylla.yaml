@@ -1,7 +1,0 @@
-name: Scylla
-entries:
-- name: ScyllaDB
-  version: all
-  user: cassandra
-  pass: cassandra
-  comment: 'Access: Any | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Micronics
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: dn_04rjc
-  comment: 'Access: Console | Privs: Admin'

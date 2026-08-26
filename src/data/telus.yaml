@@ -1,7 +1,0 @@
-name: Telus
-entries:
-- name: Telephony Services
-  version: all
-  user: (created)
-  pass: telus00
-  comment: 'Access: Multi | Privs: User | year 2000 passwords'

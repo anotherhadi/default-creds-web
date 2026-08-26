@@ -1,7 +1,0 @@
-name: Perle
-entries:
-- name: CS9000
-  version: any
-  user: admin
-  pass: superuser
-  comment: 'Access: Console | Privs: Admin'

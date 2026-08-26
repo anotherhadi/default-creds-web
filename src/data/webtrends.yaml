@@ -1,7 +1,0 @@
-name: WebTrends
-entries:
-- name: Enterprise Reporting
-  version: all
-  user: Admin
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

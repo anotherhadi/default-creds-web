@@ -1,7 +1,0 @@
-name: Hyland Software Inc.
-entries:
-- name: Nuxeo
-  version: ANY
-  user: Administrator
-  pass: Administrator
-  comment: 'Access: HTTP | Privs: Administrator | https://doc.nuxeo.com/nxdoc/authentication-and-user-management/'

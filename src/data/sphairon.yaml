@@ -1,7 +1,0 @@
-name: Sphairon
-entries:
-- name: (Versatel WLAN-Router)
-  version: all
-  user: admin
-  pass: passwort
-  comment: 'Access: Multi | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Advantek Networks
-entries:
-- name: Wireless LAN 802.11 g/b
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin | http://www.advanteknetworks.com/'

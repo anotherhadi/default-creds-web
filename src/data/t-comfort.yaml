@@ -1,7 +1,0 @@
-name: T-Comfort
-entries:
-- name: Routers
-  version: all
-  user: Administrator
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

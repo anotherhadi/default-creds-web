@@ -1,7 +1,0 @@
-name: Snapgear
-entries:
-- name: Pro
-  version: Lite
-  user: '1.79'
-  pass: Multi
-  comment: 'Access: and SOHO | Privs: root | default'

@@ -1,7 +1,0 @@
-name: SSA
-entries:
-- name: BPCS
-  version: Up to 5.02
-  user: SSA
-  pass: SSA
-  comment: 'Access: Multi | Privs: Admin | rarely changed/used for upgrades-patches'

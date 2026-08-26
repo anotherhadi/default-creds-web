@@ -1,7 +1,0 @@
-name: Mobotix
-entries:
-- name: IP Camera system
-  version: all
-  user: admin
-  pass: meinsm
-  comment: 'Access: HTTP'

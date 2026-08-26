@@ -1,8 +1,0 @@
-name: Debian
-icon: debian
-entries:
-- name: Linux LILO Default
-  version: '2.2'
-  user: ''
-  pass: tatercounter2000
-  comment: 'Access: Console | Privs: Admin'

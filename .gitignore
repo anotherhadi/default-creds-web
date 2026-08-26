@@ -3,6 +3,9 @@ dist/
 # generated types
 .astro/
 
+# credentials data, cloned at runtime from the default-creds repo
+.data-repo/
+
 # dependencies
 node_modules/
 

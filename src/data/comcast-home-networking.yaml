@@ -1,7 +1,0 @@
-name: Comcast Home Networking
-entries:
-- name: Comcast Home Networking
-  version: ALL
-  user: comcast
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

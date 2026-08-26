@@ -1,7 +1,0 @@
-name: Sorenson
-entries:
-- name: SR-200
-  version: all
-  user: ''
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Bluecoat
-entries:
-- name: ProxySG (all model)
-  version: SGOS 3 / SGOS4
-  user: admin
-  pass: admin
-  comment: 'Access: HTTPS (8082) | Privs: Admin'

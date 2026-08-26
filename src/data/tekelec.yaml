@@ -1,7 +1,0 @@
-name: Tekelec
-entries:
-- name: Eagle STP
-  version: all
-  user: eagle
-  pass: eagle
-  comment: 'Privs: Admin'

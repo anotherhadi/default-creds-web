@@ -1,4 +1,5 @@
 import { defineMiddleware } from "astro:middleware";
+import { dataSyncReady } from "./lib/data-sync";
 
 const RATE_LIMIT_WINDOW_MS = 60_000;
 const RATE_LIMIT_MAX_REQUESTS = 60;
@@ -76,6 +77,10 @@ export const onRequest = defineMiddleware(async ({ request, url }, next) => {
   }
 
   if (isApiRoute) {
+    // Blocks only the very first request(s) until the initial clone/pull
+    // resolves; already-resolved afterwards, so this is a no-op await.
+    await dataSyncReady;
+
     const ip = getClientIp(request);
     const { limited, retryAfter } = isRateLimited(ip);
 

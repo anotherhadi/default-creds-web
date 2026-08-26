@@ -1,7 +1,0 @@
-name: Deutsch Telekomm
-entries:
-- name: T-Sinus 130 DSL
-  version: all
-  user: ''
-  pass: '0'
-  comment: 'Access: HTTP | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Digital
-entries:
-- name: DEC-10
-  version: all
-  user: '2'
-  pass: maintain
-  comment: 'Access: Multi | Privs: Admin'

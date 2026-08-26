@@ -1,7 +1,0 @@
-name: SonicWALL
-entries:
-- name: ALL
-  version: ALL
-  user: admin
-  pass: password
-  comment: 'Access: HTTP | Privs: Admin'

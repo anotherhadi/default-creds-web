@@ -1,7 +1,0 @@
-name: OPNsense
-entries:
-- name: OPNsense
-  version: ANY
-  user: root
-  pass: OPNsense
-  comment: 'Access: HTTP | Privs: Administrator | https://docs.opnsense.org/'

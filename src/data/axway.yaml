@@ -1,7 +1,0 @@
-name: Axway
-entries:
-- name: SecureTransport
-  version: all
-  user: setup
-  pass: setup
-  comment: 'Access: HTTP | https://cdn.axway.com/u/documentation/secure_transport/5.3.0/SecureTransport_GettingStartedGuide_allOS_en.pdf'

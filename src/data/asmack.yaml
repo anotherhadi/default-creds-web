@@ -1,7 +1,0 @@
-name: asmack
-entries:
-- name: router
-  version: ar804u
-  user: admin
-  pass: epicrouter
-  comment: 'Access: HTTP | Privs: Admin'

@@ -1,7 +1,0 @@
-name: AddPac Technology
-entries:
-- name: AP2120
-  version: all
-  user: root
-  pass: router
-  comment: 'Access: HTTP | Privs: Administrator'

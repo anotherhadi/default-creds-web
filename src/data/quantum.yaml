@@ -1,7 +1,0 @@
-name: Quantum
-entries:
-- name: File Servers
-  version: Most
-  user: ''
-  pass: ''
-  comment: 'Access: HTTP | Privs: User'

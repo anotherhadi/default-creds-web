@@ -1,7 +1,0 @@
-name: us robotic
-entries:
-- name: adsl gateway wireless router
-  version: all
-  user: support
-  pass: support
-  comment: 'Access: wireless router | Privs: super user access | I find it on a manual'

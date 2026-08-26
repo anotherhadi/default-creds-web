@@ -1,7 +1,0 @@
-name: Minolta PagrPro
-entries:
-- name: QMS 4100GN PagePro
-  version: all
-  user: ''
-  pass: sysadm
-  comment: 'Access: HTTP | Privs: Admin'

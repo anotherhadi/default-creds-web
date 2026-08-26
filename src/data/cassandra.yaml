@@ -1,7 +1,0 @@
-name: Cassandra
-entries:
-- name: CassandraDB
-  version: all
-  user: cassandra
-  pass: cassandra
-  comment: 'Access: Any | Privs: Admin'

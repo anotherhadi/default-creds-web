@@ -1,7 +1,0 @@
-name: Jetform
-entries:
-- name: Jetform Design
-  version: all
-  user: Jetform
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

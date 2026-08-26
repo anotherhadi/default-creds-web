@@ -1,7 +1,0 @@
-name: Technicolors
-entries:
-- name: All Routers
-  version: ANY
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Administrator | Default Router IP: 192.168.1.1'

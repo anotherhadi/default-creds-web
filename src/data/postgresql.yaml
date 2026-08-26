@@ -1,8 +1,0 @@
-name: PostgreSQL
-entries:
-- name: PostgreSQL
-  version: all
-  user: postgres
-  pass: ''
-  comment: 'Access: Any | Privs: Admin | (or sometimes the password may default to
-    `postgres`)'

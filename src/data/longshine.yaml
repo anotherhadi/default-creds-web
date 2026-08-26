@@ -1,7 +1,0 @@
-name: longshine
-entries:
-- name: isscfg
-  version: all
-  user: admin
-  pass: '0'
-  comment: 'Access: HTTP | Privs: Admin'

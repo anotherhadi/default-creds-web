@@ -1,7 +1,0 @@
-name: 5200-Serie
-entries:
-- name: Generic Device
-  version: all
-  user: ''
-  pass: ''
-  comment: ''

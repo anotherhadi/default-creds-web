@@ -1,7 +1,0 @@
-name: Axent
-entries:
-- name: NetProwler manager
-  version: WinNT
-  user: administrator
-  pass: admin
-  comment: ''

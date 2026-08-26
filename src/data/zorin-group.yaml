@@ -1,7 +1,0 @@
-name: Zorin Group
-entries:
-- name: Zorin OS
-  version: all
-  user: root
-  pass: mecktech
-  comment: 'Privs: Admin | If it doesn’t work try `MeckTech` or `mechtech`'

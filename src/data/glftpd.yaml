@@ -1,7 +1,0 @@
-name: glFtpD
-entries:
-- name: glFtpD
-  version: all
-  user: glftpd
-  pass: glftpd
-  comment: 'Access: Console | Privs: Admin'

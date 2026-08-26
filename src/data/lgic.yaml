@@ -1,7 +1,0 @@
-name: LGIC
-entries:
-- name: Goldstream
-  version: 2.5.1
-  user: LR-ISDN
-  pass: LR-ISDN
-  comment: 'Privs: Admin'

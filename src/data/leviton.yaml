@@ -1,7 +1,0 @@
-name: Leviton
-entries:
-- name: 47611-GT5
-  version: all
-  user: admin
-  pass: leviton
-  comment: 'Access: Multi | Privs: Admin'

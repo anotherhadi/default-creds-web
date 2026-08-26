@@ -1,7 +1,0 @@
-name: Rapid7 Inc
-entries:
-- name: Metasploitable
-  version: 2.0.0
-  user: msfadmin
-  pass: msfadmin
-  comment: 'Access: Linux User (e.g. SSH & SFTP) | Privs: root'

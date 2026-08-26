@@ -1,7 +1,0 @@
-name: Webmin
-entries:
-- name: Webmin
-  version: Any *nix
-  user: admin
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

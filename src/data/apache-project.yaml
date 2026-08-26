@@ -1,7 +1,0 @@
-name: Apache Project
-entries:
-- name: Generic Device
-  version: Apache
-  user: jj
-  pass: ''
-  comment: 'Privs: script'

@@ -1,7 +1,0 @@
-name: Costar
-entries:
-- name: IP Camera system
-  version: all
-  user: root
-  pass: root
-  comment: 'Access: HTTP'

@@ -50,7 +50,7 @@
       <div class="stat-value text-secondary">{totalPasswords}</div>
       <div class="stat-desc">
         Full list available <a
-          href="https://github.com/anotherhadi/default-creds/blob/main/src/data"
+          href="https://github.com/anotherhadi/default-creds/blob/main/data"
           class="link link-hover text-secondary">here</a
         >.
       </div>

@@ -1,7 +1,0 @@
-name: Netstar
-entries:
-- name: Netpilot
-  version: all
-  user: admin
-  pass: password
-  comment: 'Access: Multi | Privs: Admin | http://www.netpilot.com/products/netpilot/faq/default.asp'

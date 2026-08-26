@@ -1,7 +1,0 @@
-name: Tsurugi Linux project
-entries:
-- name: Tsurugi Linux
-  version: ANY
-  user: root
-  pass: ''
-  comment: 'Access: Linux User (e.g. SSH & SFTP) | Privs: sudo access'

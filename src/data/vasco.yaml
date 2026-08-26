@@ -1,7 +1,0 @@
-name: VASCO
-entries:
-- name: VACMAN Middleware
-  version: 2.x
-  user: admin
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin | strong authentication server'

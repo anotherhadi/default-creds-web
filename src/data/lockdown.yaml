@@ -1,7 +1,0 @@
-name: Lockdown
-entries:
-- name: All Lockdown Products
-  version: up to 2.7
-  user: setup
-  pass: changeme (exclamation)
-  comment: 'Access: Console | Privs: User'

@@ -1,7 +1,0 @@
-name: m0n0wall
-entries:
-- name: m0n0wall
-  version: '1.3'
-  user: admin
-  pass: mono
-  comment: 'Privs: Administrator | Firewall'

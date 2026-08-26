@@ -1,7 +1,0 @@
-name: TMC
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: BIGO
-  comment: 'Access: Console | Privs: Admin'

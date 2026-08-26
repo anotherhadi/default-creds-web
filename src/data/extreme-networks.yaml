@@ -1,7 +1,0 @@
-name: Extreme Networks
-entries:
-- name: All Switches
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Intelbras
-entries:
-- name: WRN300
-  version: ANY
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP'

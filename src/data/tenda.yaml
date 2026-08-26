@@ -1,8 +1,0 @@
-name: Tenda
-entries:
-- name: All Routers
-  version: ANY
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Router Admin Control Access | Default Router IP:
-    192.168.0.1'

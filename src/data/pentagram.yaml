@@ -1,7 +1,0 @@
-name: Pentagram
-entries:
-- name: Cerberus ADSL modem + router
-  version: all
-  user: admin
-  pass: password
-  comment: 'Access: HTTP | Privs: Admin'

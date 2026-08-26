@@ -1,7 +1,0 @@
-name: Banana Pi
-entries:
-- name: BPI-M64 Manjaro
-  version: all
-  user: root
-  pass: bananapi
-  comment: 'Access: Console | Privs: Admin'

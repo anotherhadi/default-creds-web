@@ -1,7 +1,0 @@
-name: SANS Institute
-entries:
-- name: SIFT Workstation
-  version: ANY
-  user: sansforensics
-  pass: forensics
-  comment: 'Access: Linux User (e.g. SSH & SFTP) | Privs: sudo access'

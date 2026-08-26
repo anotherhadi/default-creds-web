@@ -1,7 +1,0 @@
-name: Resumix
-entries:
-- name: Resumix
-  version: all
-  user: root
-  pass: resumix
-  comment: ''

@@ -1,7 +1,0 @@
-name: Fast-wi
-entries:
-- name: COOG001
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Administrator'

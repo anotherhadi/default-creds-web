@@ -1,7 +1,0 @@
-name: Verifone
-entries:
-- name: Verifone Junior
-  version: '2.05'
-  user: ''
-  pass: '166816'
-  comment: ''

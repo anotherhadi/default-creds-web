@@ -1,7 +1,0 @@
-name: AmpJuke
-entries:
-- name: AmpJuke
-  version: all
-  user: admin
-  pass: pass
-  comment: 'Access: HTTP | Privs: Administrator'

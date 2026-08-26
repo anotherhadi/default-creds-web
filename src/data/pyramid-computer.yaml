@@ -1,7 +1,0 @@
-name: Pyramid Computer
-entries:
-- name: BenHur
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin'

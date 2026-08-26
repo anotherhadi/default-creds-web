@@ -1,8 +1,0 @@
-name: TP-LINK
-entries:
-- name: All Routers
-  version: ANY
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Router Control Access[Admin for that Router] | Default
-    Router IP: 192.168.0.1'

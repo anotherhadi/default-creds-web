@@ -1,7 +1,0 @@
-name: Benq
-entries:
-- name: awl 700 wireless router
-  version: 1.3.6 Beta-002
-  user: admin
-  pass: admin
-  comment: 'Access: Multi | Privs: Admin'

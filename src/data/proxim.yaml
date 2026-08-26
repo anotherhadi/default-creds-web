@@ -1,7 +1,0 @@
-name: Proxim
-entries:
-- name: Orinoco 600/2000
-  version: All
-  user: ''
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin | WLAN accesspoint'

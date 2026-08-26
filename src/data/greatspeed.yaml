@@ -1,7 +1,0 @@
-name: greatspeed
-entries:
-- name: DSL
-  version: all
-  user: netadmin
-  pass: nimdaten
-  comment: 'Access: HTTP | Privs: Admin | ETB Colombia'

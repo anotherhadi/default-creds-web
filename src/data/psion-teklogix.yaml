@@ -1,7 +1,0 @@
-name: Psion Teklogix
-entries:
-- name: '9150'
-  version: all
-  user: support
-  pass: h179350
-  comment: 'Access: HTTP | Privs: Admin'

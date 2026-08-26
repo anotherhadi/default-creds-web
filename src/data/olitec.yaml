@@ -1,7 +1,0 @@
-name: olitec
-entries:
-- name: sx 200 adsl modem router
-  version: all
-  user: admin
-  pass: adslolitec
-  comment: 'Access: Multi | Privs: Admin | default ip 192.168.0.250'

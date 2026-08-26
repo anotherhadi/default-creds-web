@@ -1,9 +1,0 @@
-name: 'MISP'
-tags:
-  - 'cti'
-entries:
-- name: MISP
-  version: 'all'
-  user: 'admin@admin.test'
-  pass: 'admin'
-  comment: 'MISP credentials'

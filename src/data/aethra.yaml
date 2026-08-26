@@ -1,7 +1,0 @@
-name: Aethra
-entries:
-- name: Starbridge EU
-  version: all
-  user: admin
-  pass: password
-  comment: 'Access: HTTP | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Advanced Integration
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: Advance
-  comment: 'Access: Console | Privs: Administrator'

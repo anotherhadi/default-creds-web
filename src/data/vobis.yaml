@@ -1,7 +1,0 @@
-name: Vobis
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: merlin
-  comment: 'Access: Console'

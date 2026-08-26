@@ -1,7 +1,0 @@
-name: latis network
-entries:
-- name: border guard
-  version: all
-  user: ''
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

@@ -1,7 +1,0 @@
-name: FiberDriver
-entries:
-- name: N-Base Switches
-  version: NH208/NH215/NH2016
-  user: ''
-  pass: forgot
-  comment: 'Access: Multi | Privs: Admin'

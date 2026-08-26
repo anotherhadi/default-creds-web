@@ -1,7 +1,0 @@
-name: AirTies RT-210
-entries:
-- name: AirTies RT-210
-  version: AirTies RT-210
-  user: admin
-  pass: admin
-  comment: 'Access: Telnet | Privs: Admin | AirTies RT-210'

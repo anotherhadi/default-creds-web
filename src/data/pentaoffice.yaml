@@ -1,7 +1,0 @@
-name: Pentaoffice
-entries:
-- name: Sat Router
-  version: all
-  user: ''
-  pass: pento
-  comment: 'Access: Telnet | Privs: Admin'

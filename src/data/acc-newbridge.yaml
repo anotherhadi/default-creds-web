@@ -1,7 +1,0 @@
-name: Acc/Newbridge
-entries:
-- name: Congo/Amazon/Tigris
-  version: Any
-  user: netman
-  pass: netman
-  comment: ''

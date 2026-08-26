@@ -1,7 +1,0 @@
-name: Hitron
-entries:
-- name: CGNM-3550
-  version: ANY
-  user: cusadmin
-  pass: password
-  comment: 'Access: HTTP | Privs: Admin | 192.168.1.1'

@@ -1,7 +1,0 @@
-name: Shoretel
-entries:
-- name: ALL
-  version: all
-  user: admin
-  pass: changeme
-  comment: 'Access: HTTP | Privs: Admin'

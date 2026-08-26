@@ -1,7 +1,0 @@
-name: Intermec
-entries:
-- name: Mobile LAN
-  version: '5.25'
-  user: intermec
-  pass: intermec
-  comment: 'Access: Multi | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Integral Technologies
-entries:
-- name: RemoteView
-  version: '4'
-  user: Administrator
-  pass: letmein
-  comment: 'Access: Console | Privs: Admin'

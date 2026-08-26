@@ -1,7 +1,0 @@
-name: JD Edwards
-entries:
-- name: WorldVision/OneWorld
-  version: All(?)
-  user: JDE
-  pass: JDE
-  comment: 'Access: Console | Privs: Admin/SECOFR'

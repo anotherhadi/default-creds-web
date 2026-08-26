@@ -1,7 +1,0 @@
-name: Intershop
-entries:
-- name: Intershop
-  version: '4'
-  user: operator
-  pass: $chwarzepumpe
-  comment: 'Access: HTTP | Privs: Admin'

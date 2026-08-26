@@ -1,7 +1,0 @@
-name: SpeedStream 5200-Serie
-entries:
-- name: SpeedStream
-  version: all
-  user: Administrator
-  pass: admin
-  comment: 'Access: Telnet | Privs: Admin'

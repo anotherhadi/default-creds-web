@@ -1,8 +1,0 @@
-name: McAfee
-icon: mcafee
-entries:
-- name: SCM 3100
-  version: '4.1'
-  user: scmadmin
-  pass: scmchangeme
-  comment: 'Access: Multi | Privs: Admin'

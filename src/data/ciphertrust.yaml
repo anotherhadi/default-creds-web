@@ -1,7 +1,0 @@
-name: CipherTrust
-entries:
-- name: IronMail
-  version: Any
-  user: admin
-  pass: password
-  comment: 'Access: Multi | Privs: Admin'

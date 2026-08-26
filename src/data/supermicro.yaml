@@ -1,7 +1,0 @@
-name: SuperMicro
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: ksdjfg934t
-  comment: 'Access: Console | Privs: Admin'

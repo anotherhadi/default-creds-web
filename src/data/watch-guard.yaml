@@ -1,7 +1,0 @@
-name: Watch guard
-entries:
-- name: firebox 1000
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

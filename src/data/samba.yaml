@@ -1,7 +1,0 @@
-name: Samba
-entries:
-- name: SWAT Package
-  version: Linux
-  user: Any Local User
-  pass: Local User password
-  comment: ''

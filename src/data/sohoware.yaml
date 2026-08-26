@@ -1,7 +1,0 @@
-name: SOHOWARE
-entries:
-- name: NBG800
-  version: all
-  user: admin
-  pass: '1234'
-  comment: 'Access: HTTP | Privs: Admin'

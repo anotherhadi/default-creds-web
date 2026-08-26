@@ -1,7 +1,0 @@
-name: XAMPP
-entries:
-- name: XAMPP Filezilla FTP Server
-  version: all
-  user: newuser
-  pass: wampp
-  comment: 'Privs: User'

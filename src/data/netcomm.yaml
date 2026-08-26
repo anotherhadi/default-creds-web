@@ -1,7 +1,0 @@
-name: Netcomm
-entries:
-- name: NB1300
-  version: all
-  user: admin
-  pass: password
-  comment: 'Access: HTTP | Privs: Admin'

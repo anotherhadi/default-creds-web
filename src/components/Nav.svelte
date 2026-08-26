@@ -17,12 +17,12 @@
       children: [
         {
           label: "Source code",
-          href: "https://github.com/anotherhadi/default-creds",
+          href: "https://github.com/anotherhadi/default-creds-web",
           icon: Github,
         },
         {
           label: "Passwords list",
-          href: "https://github.com/anotherhadi/default-creds/blob/main/src/data",
+          href: "https://github.com/anotherhadi/default-creds/blob/main/data",
           icon: Shield,
         },
         { label: "About me", href: "https://hadi.icu", icon: User },

@@ -1,7 +1,0 @@
-name: RapidStream
-entries:
-- name: RapidStream Appliances
-  version: all
-  user: rsadmin
-  pass: (null)
-  comment: 'Access: Multi | Privs: Admin'

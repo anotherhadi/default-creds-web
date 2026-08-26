@@ -1,7 +1,0 @@
-name: security.org
-entries:
-- name: lockpicking
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

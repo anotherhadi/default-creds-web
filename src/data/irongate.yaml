@@ -1,7 +1,0 @@
-name: Irongate
-entries:
-- name: NetSurvibox 266
-  version: '1'
-  user: admin
-  pass: NetSurvibox
-  comment: 'Access: HTTP | Privs: Admin'

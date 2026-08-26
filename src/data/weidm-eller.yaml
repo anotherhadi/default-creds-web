@@ -1,7 +1,0 @@
-name: Weidmüeller
-entries:
-- name: IE-SW16-M
-  version: all
-  user: admin
-  pass: detmond
-  comment: 'Privs: admin'

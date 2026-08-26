@@ -1,7 +1,0 @@
-name: Funk Software
-entries:
-- name: Steel Belted Radius
-  version: 3.x
-  user: admin
-  pass: radius
-  comment: 'Access: Proprietary | Privs: Admin'

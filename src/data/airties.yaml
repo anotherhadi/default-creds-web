@@ -1,8 +1,0 @@
-name: Airties
-entries:
-- name: Air4310
-  version: ANY
-  user: ''
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin | Username is not asked and the password is
-    empty just need to click ''OK'''

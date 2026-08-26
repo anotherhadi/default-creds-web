@@ -1,7 +1,0 @@
-name: Raritan
-entries:
-- name: KVM Switches
-  version: all
-  user: admin
-  pass: raritan
-  comment: 'Privs: Admin'

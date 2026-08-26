@@ -1,7 +1,0 @@
-name: Alcatel/Newbridge/Timestep
-entries:
-- name: VPN Gateway 15xx/45xx/7xxx
-  version: Any
-  user: root
-  pass: permit
-  comment: ''

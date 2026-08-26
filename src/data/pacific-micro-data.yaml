@@ -1,7 +1,0 @@
-name: Pacific Micro Data
-entries:
-- name: MAST 9500 Universal Disk Array
-  version: ESM ver. 2.11 / 1
-  user: pmd
-  pass: ''
-  comment: 'Access: Console | Privs: Admin'

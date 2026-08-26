@@ -1,7 +1,0 @@
-name: Scientific Atlanta
-entries:
-- name: DPX2100
-  version: Comcast-supplied
-  user: admin
-  pass: w2402
-  comment: 'Access: HTTP | Privs: diagnostics page | 192.168.100.1'

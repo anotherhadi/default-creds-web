@@ -1,7 +1,0 @@
-name: NEC
-entries:
-- name: WARPSTAR-BaseStation
-  version: all
-  user: ''
-  pass: ''
-  comment: 'Access: Telnet | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Telebit
-entries:
-- name: NetBlazer
-  version: 3.*
-  user: setup/snmp
-  pass: setup/nopassword
-  comment: 'Privs: Admin'

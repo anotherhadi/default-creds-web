@@ -1,7 +1,0 @@
-name: 360 Systems
-entries:
-- name: Image Server 2000
-  version: all
-  user: factory
-  pass: factory
-  comment: ''

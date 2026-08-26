@@ -1,7 +1,0 @@
-name: MacSense
-entries:
-- name: X-Router Pro
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Privs: Admin'

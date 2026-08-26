@@ -1,7 +1,0 @@
-name: Sun Microsystems
-entries:
-- name: ILOM of X4100
-  version: '1'
-  user: root
-  pass: changeme
-  comment: 'Access: HTTP | Privs: Admin'

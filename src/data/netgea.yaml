@@ -1,7 +1,0 @@
-name: Netgea
-entries:
-- name: FR314
-  version: all
-  user: admin
-  pass: password
-  comment: 'Access: HTTP | Privs: Admin'

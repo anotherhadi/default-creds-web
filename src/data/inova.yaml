@@ -1,7 +1,0 @@
-name: INOVA
-entries:
-- name: ONT4BKP (IP clock)
-  version: all
-  user: iclock
-  pass: timely
-  comment: 'Access: Telnet | Privs: Admin | Network clock'

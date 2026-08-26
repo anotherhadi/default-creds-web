@@ -1,7 +1,0 @@
-name: aztech
-entries:
-- name: DSL-600E
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin'

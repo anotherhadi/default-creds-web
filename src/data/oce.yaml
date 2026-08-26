@@ -1,7 +1,0 @@
-name: OCE
-entries:
-- name: Printers
-  version: Hardware
-  user: ''
-  pass: 0 and the number of OCE printer
-  comment: 'Access: HTTP | Privs: Admin'

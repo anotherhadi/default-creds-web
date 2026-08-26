@@ -1,7 +1,0 @@
-name: ADP
-entries:
-- name: ADP Payroll HR Database
-  version: Any
-  user: sysadmin
-  pass: master
-  comment: 'Access: Multi | Privs: Admin'

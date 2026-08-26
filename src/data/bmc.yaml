@@ -1,7 +1,0 @@
-name: BMC
-entries:
-- name: Patrol
-  version: '6'
-  user: patrol
-  pass: patrol
-  comment: 'Access: Multi | Privs: User'

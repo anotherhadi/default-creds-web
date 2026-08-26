@@ -1,7 +1,0 @@
-name: Digiboard
-entries:
-- name: Portserver 8 & 16
-  version: any
-  user: root
-  pass: dbps
-  comment: 'Privs: Admin'

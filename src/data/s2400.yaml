@@ -1,7 +1,0 @@
-name: S2400
-entries:
-- name: Toshiba
-  version: all
-  user: Administrator
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin'

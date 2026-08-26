@@ -1,7 +1,0 @@
-name: WorldClient
-entries:
-- name: AdminServer
-  version: all
-  user: WebAdmin
-  pass: Admin
-  comment: 'Access: HTTP:2001 | Privs: WorldClient'

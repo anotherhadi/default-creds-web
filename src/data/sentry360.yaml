@@ -1,7 +1,0 @@
-name: Sentry360
-entries:
-- name: IP Camera system
-  version: all
-  user: Admin
-  pass: '1234'
-  comment: 'Access: HTTP'

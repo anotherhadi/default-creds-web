@@ -1,7 +1,0 @@
-name: schoolgirl
-entries:
-- name: member
-  version: all
-  user: ich
-  pass: hci
-  comment: ''

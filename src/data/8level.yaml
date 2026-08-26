@@ -1,7 +1,0 @@
-name: 8level
-entries:
-- name: Generic Device
-  version: WRT-150
-  user: admin
-  pass: admin
-  comment: 192.168.1.1

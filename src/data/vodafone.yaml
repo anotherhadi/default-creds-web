@@ -1,7 +1,0 @@
-name: Vodafone
-entries:
-- name: wifi router
-  version: all
-  user: root
-  pass: '123456'
-  comment: 'Privs: Admin'

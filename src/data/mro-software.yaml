@@ -1,7 +1,0 @@
-name: mro software
-entries:
-- name: maximo
-  version: v4.1
-  user: SYSADM
-  pass: sysadm
-  comment: 'Access: Multi | Privs: Admin'

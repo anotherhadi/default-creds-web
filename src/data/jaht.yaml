@@ -1,7 +1,0 @@
-name: JAHT
-entries:
-- name: adsl router
-  version: AR41/2A
-  user: admin
-  pass: epicrouter
-  comment: 'Access: HTTP | Privs: Admin'

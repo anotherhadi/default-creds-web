@@ -1,7 +1,0 @@
-name: 2Wire
-entries:
-- name: WiFi routers
-  version: all
-  user: ''
-  pass: Wireless
-  comment: 'Access: HTTP | Privs: Admin | Almost all 2wire routers'

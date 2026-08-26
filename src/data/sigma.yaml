@@ -1,7 +1,0 @@
-name: Sigma
-entries:
-- name: Sigmacoma IPshare
-  version: Sigmacom router v1.0
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin | effes2004@gmail.com'

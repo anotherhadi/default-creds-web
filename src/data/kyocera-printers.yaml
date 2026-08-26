@@ -1,7 +1,0 @@
-name: Kyocera Printers
-entries:
-- name: 2020D
-  version: all
-  user: ''
-  pass: admin00
-  comment: 'Privs: Admin'

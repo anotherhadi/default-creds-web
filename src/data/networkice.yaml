@@ -1,7 +1,0 @@
-name: NetworkICE
-entries:
-- name: ICECap Manager
-  version: 2.0.22 <
-  user: iceman
-  pass: ''
-  comment: 'Access: 8081 | Privs: Admin'

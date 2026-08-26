@@ -1,7 +1,0 @@
-name: W-Box
-entries:
-- name: IP Camera system
-  version: all
-  user: admin
-  pass: wbox / 123
-  comment: 'Access: HTTP'

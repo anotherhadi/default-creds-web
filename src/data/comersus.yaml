@@ -1,7 +1,0 @@
-name: Comersus
-entries:
-- name: Shopping Cart
-  version: '3.2'
-  user: admin
-  pass: dmr99
-  comment: 'Access: HTTP | Privs: Admin'

@@ -1,7 +1,0 @@
-name: NetGenesis
-entries:
-- name: NetAnalysis Web Reporting
-  version: all
-  user: naadmin
-  pass: naadmin
-  comment: 'Access: HTTP | Privs: Admin'

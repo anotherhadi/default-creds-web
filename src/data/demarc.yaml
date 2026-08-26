@@ -1,7 +1,0 @@
-name: Demarc
-entries:
-- name: Network Monitor
-  version: all
-  user: admin
-  pass: my_DEMARC
-  comment: 'Access: multi | Privs: Admin'

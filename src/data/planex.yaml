@@ -1,7 +1,0 @@
-name: Planex
-entries:
-- name: BRL-04UR
-  version: all
-  user: admin
-  pass: '0'
-  comment: 'Access: Multi | Privs: Admin'

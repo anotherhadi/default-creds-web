@@ -1,7 +1,0 @@
-name: Netport
-entries:
-- name: Express 10/100
-  version: all
-  user: setup
-  pass: setup
-  comment: 'Access: multi | Privs: Admin'

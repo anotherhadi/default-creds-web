@@ -1,7 +1,0 @@
-name: LAXO
-entries:
-- name: IS-194G
-  version: 1.0a
-  user: admin
-  pass: admin
-  comment: 'Privs: admin | 192.168.1.254'

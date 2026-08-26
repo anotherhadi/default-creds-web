@@ -1,7 +1,0 @@
-name: SonarSource
-entries:
-- name: SonarQube
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP'

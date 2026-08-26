@@ -1,8 +1,0 @@
-name: MongoDB
-icon: mongodb
-entries:
-- name: MongoDB
-  version: all
-  user: ''
-  pass: ''
-  comment: 'Access: Any | No authentication by default'

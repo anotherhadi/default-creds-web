@@ -1,8 +1,0 @@
-name: Kibana
-icon: kibana
-entries:
-- name: Kibana
-  version: all
-  user: elastic
-  pass: changeme
-  comment: 'Access: Web UI | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Crystalview
-entries:
-- name: OutsideView 32
-  version: all
-  user: ''
-  pass: Crystal
-  comment: 'Privs: Admin'

@@ -1,7 +1,0 @@
-name: Tumbleweed
-entries:
-- name: Message Management System
-  version: 4.3-4.6
-  user: sa
-  pass: ''
-  comment: 'Privs: Admin'

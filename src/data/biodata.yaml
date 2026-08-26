@@ -1,7 +1,0 @@
-name: BioData
-entries:
-- name: all Babylon Boxes
-  version: all
-  user: ''
-  pass: Babylon
-  comment: 'Privs: Admin'

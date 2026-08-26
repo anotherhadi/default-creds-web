@@ -1,7 +1,0 @@
-name: Microplex
-entries:
-- name: Print Server
-  version: all
-  user: root
-  pass: root
-  comment: 'Access: Telnet | Privs: Admin'

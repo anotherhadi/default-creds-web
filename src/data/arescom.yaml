@@ -1,7 +1,0 @@
-name: Arescom
-entries:
-- name: modem/router
-  version: 10XX
-  user: ''
-  pass: atc123
-  comment: 'Access: Telnet | Privs: Admin'

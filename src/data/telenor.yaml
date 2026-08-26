@@ -1,7 +1,0 @@
-name: Telenor
-entries:
-- name: 4g Mifi
-  version: all
-  user: admin
-  pass: admin
-  comment: ''

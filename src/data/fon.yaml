@@ -1,7 +1,0 @@
-name: fon
-entries:
-- name: La fonera
-  version: 0.7.1 r1
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin | fon.com'

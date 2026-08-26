@@ -1,8 +1,0 @@
-name: ADT
-entries:
-- name: Safewatch Pro3000
-  version: all
-  user: ''
-  pass: '2580'
-  comment: 'Privs: Duress | This is a ''duress'' code and likely on multiple ADT models
-    as set by technicians. | http://krebsonsecurity.com/2013/01/does-your-alarm-have-a-default-duress-code/'

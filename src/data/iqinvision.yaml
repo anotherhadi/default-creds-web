@@ -1,7 +1,0 @@
-name: IQInvision
-entries:
-- name: IP Camera system
-  version: all
-  user: root
-  pass: system
-  comment: 'Access: HTTP'

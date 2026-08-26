@@ -1,7 +1,0 @@
-name: Flir
-entries:
-- name: IP Camera system
-  version: all
-  user: admin
-  pass: fliradmin
-  comment: 'Access: HTTP'

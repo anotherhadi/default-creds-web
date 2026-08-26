@@ -1,7 +1,0 @@
-name: Telco Systems
-entries:
-- name: Edge Link 100
-  version: all
-  user: telco
-  pass: telco
-  comment: 'Access: Console | Privs: telco'

@@ -1,7 +1,0 @@
-name: Foundry Networks
-entries:
-- name: IronView Network Manager
-  version: Version 01.6.00a (service pack) 0620031754
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin | http://www.foundrynet.com/services/documentation/nms/FEManager_Installation.html'

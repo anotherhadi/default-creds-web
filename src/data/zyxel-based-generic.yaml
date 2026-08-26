@@ -1,7 +1,0 @@
-name: ZyXEL Based (Generic)
-entries:
-- name: Broadband SOHO Router
-  version: 925ahcd on circuit board print
-  user: admin
-  pass: '0'
-  comment: 'Privs: Admin | Password is 4 zeros. Gray router with pink bezel.'

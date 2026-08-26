@@ -1,7 +1,0 @@
-name: Airlink
-entries:
-- name: AnyGate
-  version: GW-200
-  user: ''
-  pass: admin
-  comment: 'Access: HTTP | Privs: Administrator'

@@ -1,7 +1,0 @@
-name: Elsa
-entries:
-- name: LANCom Office ISDN Router
-  version: 800/1000/1100
-  user: ''
-  pass: cisco
-  comment: 'Access: Telnet | Privs: Admin'

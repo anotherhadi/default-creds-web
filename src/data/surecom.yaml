@@ -1,7 +1,0 @@
-name: surecom
-entries:
-- name: ep3501/3506
-  version: own os
-  user: admin
-  pass: surecom
-  comment: ''

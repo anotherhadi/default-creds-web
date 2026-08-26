@@ -1,7 +1,0 @@
-name: Optivision
-entries:
-- name: Nac 3000 & 4000
-  version: any
-  user: root
-  pass: mpegvideo
-  comment: ''

@@ -1,7 +1,0 @@
-name: ovislink
-entries:
-- name: WL-1120AP
-  version: all
-  user: root
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

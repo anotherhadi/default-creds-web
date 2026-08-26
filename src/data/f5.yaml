@@ -1,7 +1,0 @@
-name: F5
-entries:
-- name: Bigip 540
-  version: all
-  user: root
-  pass: default
-  comment: 'Access: Multi | Privs: Admin'

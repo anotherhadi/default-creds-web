@@ -1,7 +1,0 @@
-name: OCS Inventory NG
-entries:
-- name: OCS Inventory
-  version: ANY
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Administrator | https://wiki.ocsinventory-ng.org/03.Basic-documentatio<blank>dministration-of-OCS-Inventory-NG/'

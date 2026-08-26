@@ -1,7 +1,0 @@
-name: Visual Networks
-entries:
-- name: Visual Uptime T1 CSU/DSU
-  version: '1'
-  user: admin
-  pass: visual
-  comment: 'Access: Console | Privs: Admin'

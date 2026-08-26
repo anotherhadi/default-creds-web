@@ -1,7 +1,0 @@
-name: Replicom
-entries:
-- name: ProxyView
-  version: all
-  user: Administrator
-  pass: Pvremote
-  comment: 'Access: NetBIOS | Privs: Admin'

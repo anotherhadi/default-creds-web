@@ -1,7 +1,0 @@
-name: ADC Kentrox
-entries:
-- name: Pacesetter Router
-  version: all
-  user: ''
-  pass: secret
-  comment: 'Access: Telnet'

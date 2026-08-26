@@ -1,7 +1,0 @@
-name: webmail
-entries:
-- name: webmail v0.94
-  version: all
-  user: kol
-  pass: gniffe
-  comment: 'Access: Multi | Privs: Admin'

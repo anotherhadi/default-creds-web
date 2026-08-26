@@ -1,7 +1,0 @@
-name: Fiberhome
-entries:
-- name: HG6243C
-  version: ANY
-  user: user
-  pass: user1234
-  comment: 'Access: HTTP | Privs: Admin | The default IP Address is 192.168.1.1/24'

@@ -1,7 +1,0 @@
-name: topsec
-entries:
-- name: firewall
-  version: all
-  user: superman
-  pass: talent
-  comment: 'Access: Multi | Privs: Admin'

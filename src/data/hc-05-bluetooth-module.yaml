@@ -1,7 +1,0 @@
-name: HC-05 Bluetooth Module
-entries:
-- name: HC-05 for Arduino
-  version: all
-  user: ''
-  pass: '1234'
-  comment: 'Access: BLUETOOTH'

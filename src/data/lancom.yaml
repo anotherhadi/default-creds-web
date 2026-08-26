@@ -1,7 +1,0 @@
-name: LANCOM
-entries:
-- name: IL11
-  version: all
-  user: ''
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

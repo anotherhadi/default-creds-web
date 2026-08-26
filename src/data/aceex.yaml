@@ -1,7 +1,0 @@
-name: Aceex
-entries:
-- name: Modem ADSL Router
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

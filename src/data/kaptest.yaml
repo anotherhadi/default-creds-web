@@ -1,7 +1,0 @@
-name: kaptest
-entries:
-- name: usmle
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

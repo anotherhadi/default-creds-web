@@ -1,7 +1,0 @@
-name: Teledat
-entries:
-- name: Routers
-  version: all
-  user: admin
-  pass: '1234'
-  comment: 'Access: HTTP | Privs: Admin'

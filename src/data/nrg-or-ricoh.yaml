@@ -1,7 +1,0 @@
-name: NRG or RICOH
-entries:
-- name: DSc338 Printer
-  version: '1.19'
-  user: ''
-  pass: password
-  comment: 'Access: HTTP | Privs: Admin | no user'

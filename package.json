@@ -1,5 +1,5 @@
 {
-  "name": "default-creds",
+  "name": "default-creds-web",
   "type": "module",
   "version": "1.0.0",
   "scripts": {

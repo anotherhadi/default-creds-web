@@ -1,7 +1,0 @@
-name: Tiny
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: Tiny
-  comment: 'Access: Console | Privs: Admin'

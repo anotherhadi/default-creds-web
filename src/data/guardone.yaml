@@ -1,7 +1,0 @@
-name: GuardOne
-entries:
-- name: BizGuard
-  version: all
-  user: n.a
-  pass: guardone
-  comment: 'Access: Multi | Privs: Admin'

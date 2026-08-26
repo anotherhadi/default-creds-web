@@ -1,7 +1,0 @@
-name: Rodopi
-entries:
-- name: Rodopi billing software (AbacBill) sql database
-  version: all
-  user: rodopi
-  pass: rodopi
-  comment: ''

@@ -1,7 +1,0 @@
-name: openELEC
-entries:
-- name: openelec
-  version: 8.0.4
-  user: root
-  pass: openelec
-  comment: 'Access:  SSH | Privs:  sudo access'

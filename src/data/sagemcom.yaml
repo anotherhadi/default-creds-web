@@ -1,7 +1,0 @@
-name: Sagemcom
-entries:
-- name: FAST 5657
-  version: all
-  user: '1234'
-  pass: '1234'
-  comment: 'Access: HTTP | Privs: Admin'

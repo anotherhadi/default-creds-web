@@ -1,7 +1,0 @@
-name: NETIO 4All
-entries:
-- name: PowerPDU 4C
-  version: Firmware 3.4.0 and later
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Administrator | https://www.netio-products.com/files/download/sw/version/NETIO-4x-MANUAL-en_1-3-0.pdf'

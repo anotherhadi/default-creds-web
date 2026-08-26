@@ -1,8 +1,0 @@
-name: Crossbeam
-entries:
-- name: COS/XOS
-  version: all
-  user: ''
-  pass: x40rocks
-  comment: 'Access: Lilo boot | Privs: Admin | At the LILO boot prompt type linux
-    single'

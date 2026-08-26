@@ -1,7 +1,0 @@
-name: emai
-entries:
-- name: hotmail
-  version: all
-  user: ''
-  pass: ''
-  comment: ''

@@ -1,9 +1,0 @@
-name: Raspberry Pi Foundation
-entries:
-- name: Raspberry Pi OS
-  version: ANY
-  user: pi
-  pass: raspberry
-  comment: 'Access: Linux User (e.g. SSH & SFTP) | Privs: sudo access | Until recently
-    the default user/password combination was used. The default user is now set on
-    first boot using a configuration wizard. Source: https://www.raspberrypi.com/documentation/computers/configuration.html#change-user-password'

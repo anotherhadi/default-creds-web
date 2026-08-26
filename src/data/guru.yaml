@@ -1,7 +1,0 @@
-name: Guru
-entries:
-- name: Wireless ADSL2
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin'

@@ -1,7 +1,0 @@
-name: BizDesign
-entries:
-- name: ImageFolio Pro
-  version: '2.2'
-  user: Admin
-  pass: ImageFolio
-  comment: 'Access: HTTP | Privs: Admin'

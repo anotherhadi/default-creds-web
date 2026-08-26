@@ -1,7 +1,0 @@
-name: JetWay
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: spooml
-  comment: 'Access: Console | Privs: Admin'

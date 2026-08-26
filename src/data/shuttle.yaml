@@ -1,7 +1,0 @@
-name: Shuttle
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: Spacve
-  comment: 'Privs: Admin'

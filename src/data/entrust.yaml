@@ -1,7 +1,0 @@
-name: Entrust
-entries:
-- name: getAccess
-  version: 4.x and 7.x
-  user: websecadm
-  pass: changeme
-  comment: 'Access: Web Admin gui | Privs: Admin | Access to Admin Gui via /sek-bin/login.gas.bat'

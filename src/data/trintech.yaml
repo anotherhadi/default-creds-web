@@ -1,7 +1,0 @@
-name: Trintech
-entries:
-- name: eAcquirer App/Data Servers
-  version: all
-  user: t3admin
-  pass: Trintech
-  comment: 'Privs: Admin'

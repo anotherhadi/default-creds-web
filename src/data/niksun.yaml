@@ -1,7 +1,0 @@
-name: Niksun
-entries:
-- name: NetDetector
-  version: all
-  user: vcr
-  pass: NetVCR
-  comment: 'Access: Multi | Privs: Admin | su after login with empty password'

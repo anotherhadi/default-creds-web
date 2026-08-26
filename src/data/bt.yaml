@@ -1,7 +1,0 @@
-name: BT
-entries:
-- name: BT Mobile Hotspot
-  version: all
-  user: ''
-  pass: admin
-  comment: 'Access: HTTP | https://btbusiness.custhelp.com/app/answers/detail/a_id/26793/~/how-do-i-change-passwords-or-reset-to-defaults-on-a-bt-mobile-hotspot%3F#reset'

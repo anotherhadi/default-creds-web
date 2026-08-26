@@ -1,7 +1,0 @@
-name: Gateway
-entries:
-- name: Solo
-  version: all
-  user: ''
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

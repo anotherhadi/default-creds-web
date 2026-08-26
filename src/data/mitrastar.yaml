@@ -1,7 +1,0 @@
-name: MitraStar
-entries:
-- name: GPT-2541GNAC
-  version: '1.0'
-  user: admin
-  pass: '1234'
-  comment: 'Access: default | Privs: admin | WiFi router'

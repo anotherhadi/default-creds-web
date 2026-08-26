@@ -1,7 +1,0 @@
-name: giga
-entries:
-- name: 8ippro1000
-  version: all
-  user: Administrator
-  pass: admin
-  comment: 'Access: Multi | Privs: Admin'

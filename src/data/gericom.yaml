@@ -1,7 +1,0 @@
-name: Gericom
-entries:
-- name: Phoenix
-  version: all
-  user: Administrator
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

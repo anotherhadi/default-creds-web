@@ -1,7 +1,0 @@
-name: Mediatrix
-entries:
-- name: MDD 2400/2600
-  version: all
-  user: administrator
-  pass: ''
-  comment: 'Access: Console | Privs: Admin'

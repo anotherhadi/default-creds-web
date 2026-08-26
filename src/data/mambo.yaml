@@ -1,7 +1,0 @@
-name: Mambo
-entries:
-- name: Site Server
-  version: 4.x
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Administrator | http://sourceforge.org/projects/mambo'

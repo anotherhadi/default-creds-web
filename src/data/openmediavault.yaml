@@ -1,7 +1,0 @@
-name: openmediavault
-entries:
-- name: openmediavault
-  version: ANY
-  user: admin
-  pass: openmediavault
-  comment: 'Access: HTTP | Privs: Admin'

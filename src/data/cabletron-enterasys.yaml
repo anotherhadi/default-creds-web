@@ -1,7 +1,0 @@
-name: Cabletron/Enterasys
-entries:
-- name: WebView for Matrix E1 (1G694-13 or 1G582-09 or 1H582-51) switch
-  version: all
-  user: ''
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

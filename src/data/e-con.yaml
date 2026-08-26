@@ -1,7 +1,0 @@
-name: E-Con
-entries:
-- name: Econ DSL Router
-  version: all
-  user: admin
-  pass: epicrouter
-  comment: 'Access: Router | Privs: Admin | DSL Router'

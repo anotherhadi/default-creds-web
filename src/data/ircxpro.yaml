@@ -1,7 +1,0 @@
-name: IRCXPro
-entries:
-- name: IRCXPro Server
-  version: '1.0'
-  user: admin
-  pass: password
-  comment: 'Access: IRC | Privs: Admin'

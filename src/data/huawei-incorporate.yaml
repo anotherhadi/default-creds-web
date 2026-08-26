@@ -1,7 +1,0 @@
-name: huawei incorporate
-entries:
-- name: k3765
-  version: 9.4.3.16284
-  user: admin
-  pass: admin
-  comment: ''

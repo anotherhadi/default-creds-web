@@ -1,7 +1,0 @@
-name: Marconi
-entries:
-- name: Fore ATM Switches
-  version: all
-  user: ami
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

@@ -1,7 +1,0 @@
-name: WLAN_3D
-entries:
-- name: Router
-  version: all
-  user: Administrator
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin'

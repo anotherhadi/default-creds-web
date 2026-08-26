@@ -1,7 +1,0 @@
-name: GoNET
-entries:
-- name: General Equipment(?)
-  version: all
-  user: fast
-  pass: adb234
-  comment: 'Privs: Admin'

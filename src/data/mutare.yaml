@@ -1,7 +1,0 @@
-name: Mutare
-entries:
-- name: EVM Admin
-  version: All
-  user: ''
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin | http://www.mutare.com/data/kb/'

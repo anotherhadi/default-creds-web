@@ -1,7 +1,0 @@
-name: ODS
-entries:
-- name: 1094 IS Chassis
-  version: 4.x
-  user: ods
-  pass: ods
-  comment: ''

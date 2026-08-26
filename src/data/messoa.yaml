@@ -1,7 +1,0 @@
-name: Messoa
-entries:
-- name: IP Camera system
-  version: all
-  user: admin
-  pass: Model# of camera
-  comment: 'Access: HTTP'

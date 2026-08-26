@@ -1,7 +1,0 @@
-name: CTC Union
-entries:
-- name: ATU-R130
-  version: 81001a
-  user: root
-  pass: root
-  comment: 'Access: Multi | Privs: Admin'

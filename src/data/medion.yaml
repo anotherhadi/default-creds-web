@@ -1,7 +1,0 @@
-name: medion
-entries:
-- name: Routers
-  version: all
-  user: ''
-  pass: medion
-  comment: 'Access: HTTP | Privs: Admin'

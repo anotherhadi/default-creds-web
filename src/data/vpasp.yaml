@@ -1,7 +1,0 @@
-name: VPASP
-entries:
-- name: VP-ASP Shopping Cart
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin'

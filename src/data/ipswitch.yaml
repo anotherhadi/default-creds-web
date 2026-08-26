@@ -1,7 +1,0 @@
-name: Ipswitch
-entries:
-- name: Whats up Gold
-  version: '6.0'
-  user: admin
-  pass: admin
-  comment: 'Privs: Admin'

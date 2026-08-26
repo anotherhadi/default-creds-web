@@ -1,7 +1,0 @@
-name: Promise
-entries:
-- name: NS4300N NAS
-  version: all
-  user: engmode
-  pass: hawk201
-  comment: 'Access: Shell | Privs: Admin'

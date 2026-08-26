@@ -1,8 +1,0 @@
-name: Amitech
-entries:
-- name: wireless router and access point 802.11g 802.11b
-  version: any
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin | Web interface is on 192.168.1.254 available
-    on the LAN ports of the AP.'

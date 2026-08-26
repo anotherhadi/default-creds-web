@@ -1,7 +1,0 @@
-name: Inventel
-entries:
-- name: Livebox
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: Multi | Privs: Admin'

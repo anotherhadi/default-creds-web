@@ -4,76 +4,62 @@
 
 <br>
 
-# Default-Creds
+# Default-Creds Web
 
 <br>
 <div align="center">
-    <a href="https://github.com/anotherhadi/default-creds/stargazers">
-        <img src="https://img.shields.io/github/stars/anotherhadi/default-creds?color=8FD0CB&labelColor=0b0b0b&style=for-the-badge&logo=starship&logoColor=8FD0CB">
+    <a href="https://github.com/anotherhadi/default-creds-web/stargazers">
+        <img src="https://img.shields.io/github/stars/anotherhadi/default-creds-web?color=8FD0CB&labelColor=0b0b0b&style=for-the-badge&logo=starship&logoColor=8FD0CB">
     </a>
-    <a href="https://github.com/anotherhadi/default-creds/">
-        <img src="https://img.shields.io/github/repo-size/anotherhadi/default-creds?color=8FD0CB&labelColor=0b0b0b&style=for-the-badge&logo=github&logoColor=8FD0CB">
+    <a href="https://github.com/anotherhadi/default-creds-web/">
+        <img src="https://img.shields.io/github/repo-size/anotherhadi/default-creds-web?color=8FD0CB&labelColor=0b0b0b&style=for-the-badge&logo=github&logoColor=8FD0CB">
     </a>
-    <a href="https://github.com/anotherhadi/default-creds/tree/main/src/data">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/anotherhadi/default-creds/contents/src/data&query=%24.length&label=Manufacturers&style=for-the-badge&color=8FD0CB&labelColor=0b0b0b&logo=github&logoColor=8FD0CB">
-    </a>
-    <a href="https://github.com/anotherhadi/default-creds/blob/main/LICENSE">
+    <a href="https://github.com/anotherhadi/default-creds-web/blob/main/LICENSE">
         <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&colorA=0b0b0b&colorB=8FD0CB&logo=unlicense&logoColor=8FD0CB"/>
     </a>
 </div>
 <br>
 
-**Default Creds** is a centralized, community-driven repository of factory-set credentials. Designed for pentesters and security researchers, it helps identify weak access points during engagement phases or audit internal infrastructure before they become a security liability.
+This is the web frontend for **[Default Creds](https://github.com/anotherhadi/default-creds)**, a centralized, community-driven database of factory-set credentials.
 
 **Live Instance:** [default-creds.hadi.icu](https://default-creds.hadi.icu?utm_source=github&utm_medium=readme)
 
 **API Documentation:** [default-creds.hadi.icu/api-docs](https://default-creds.hadi.icu/api-docs?utm_source=github&utm_medium=readme)
 
-## 🎯 The Mission
-
-In the world of cybersecurity, "low-hanging fruit" often comes in the form of unchanged default passwords. Our mission is to provide a fast, reliable, and searchable database of these credentials to help security professionals secure systems before attackers exploit them.
+> Looking to add or fix a credential? That data lives in a separate repo: **[anotherhadi/default-creds](https://github.com/anotherhadi/default-creds)**. This repo is code-only.
 
 ## ⚙️ How it Works
 
-This application is built with **Astro** and **Svelte 5** for maximum performance. It operates as a "Flat-File Database":
+This application is built with **Astro** and **Svelte 5**.
 
-1. **YAML Powered:** All credentials are stored as structured `.yaml` files in the `src/data/` directory.
-2. **Real-time Search:** The API parses these files on-the-fly (or via build cache) to provide instant results based on service names, versions, or tags.
-3. **Developer Friendly:** A public API is available to integrate these credentials into your own automated scanning tools.
+1. **On boot:** clones the data repo (shallow) into a local, git-ignored directory if it isn't there yet.
+2. **Periodically:** re-fetches and hard-resets to the remote's latest commit (default every 6h), so the site stays current without needing a redeploy whenever the data changes.
+3. **On update:** the in-memory search cache is invalidated so the next request picks up fresh data.
 
-## 🤝 Community Driven & Contributing
+Configurable via environment variables:
 
-Security is a collective effort. This project only grows as the community discovers and adds new default configurations.
-
-- **Want to add an app?** Just create a new YAML file in `src/data/`.
-- **Found a mistake?** Submit a Pull Request to update existing entries.
-
-Before contributing, please read our [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to format your YAML files.
+| Variable                   | Default                                            | Description                          |
+| -------------------------- | -------------------------------------------------- | ------------------------------------ |
+| `DATA_REPO_URL`            | `https://github.com/anotherhadi/default-creds.git` | Git URL of the data repository       |
+| `DATA_REPO_DIR`            | `./.data-repo`                                     | Where to clone the data repo locally |
+| `DATA_SYNC_INTERVAL_HOURS` | `6`                                                | How often to re-pull                 |
 
 ## 💻 Local Development
 
 ### Prerequisites
 
 - Bun (or nix, just `nix develop`)
+- `git` available on `PATH` (used to clone/pull the data repo)
 
 ### Installation
 
-1. **Clone the repo:**
-
 ```bash
-git clone https://github.com/anotherhadi/default-creds.git
-cd default-creds
-
-```
-
-2. **Start the dev server:**
-
-```bash
+git clone https://github.com/anotherhadi/default-creds-web.git
+cd default-creds-web
 bun dev
 ```
 
-3. **Add your data:**
-   Drop a `.yaml` file into `src/data/` and it will appear in the search results instantly!
+The data repo is cloned automatically into `.data-repo/` on first run.
 
 ### 🛠️ Tech Stack
 
@@ -88,7 +74,7 @@ Usage of **Default Creds** for attacking targets without prior mutual consent is
 ---
 
 <div align="center">
-  <a href="https://github.com/anotherhadi/default-creds">github</a> |
-  <a href="https://gitlab.com/anotherhadi_mirror/default-creds">gitlab (mirror)</a> |
-  <a href="https://git.hadi.icu/anotherhadi/default-creds">gitea (mirror)</a>
-</div
+  <a href="https://github.com/anotherhadi/default-creds-web">github</a> |
+  <a href="https://gitlab.com/anotherhadi_mirror/default-creds-web">gitlab (mirror)</a> |
+  <a href="https://git.hadi.icu/anotherhadi/default-creds-web">gitea (mirror)</a>
+</div>

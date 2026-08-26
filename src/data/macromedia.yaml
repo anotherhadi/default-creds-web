@@ -1,7 +1,0 @@
-name: Macromedia
-entries:
-- name: Dreamweaver
-  version: all
-  user: ''
-  pass: admin
-  comment: 'Access: FTP | Privs: Guest'

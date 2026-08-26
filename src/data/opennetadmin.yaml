@@ -1,7 +1,0 @@
-name: OpenNetAdmin
-entries:
-- name: OpenNetAdmin
-  version: ANY
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Administrator | https://github.com/opennetadmin/ona/blob/master/docs/INSTALL'

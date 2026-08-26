@@ -1,7 +1,0 @@
-name: Dupont
-entries:
-- name: Digital Water Proofer
-  version: all
-  user: root
-  pass: par0t
-  comment: 'Access: Telnet | Privs: Admin'

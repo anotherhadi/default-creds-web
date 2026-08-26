@@ -1,7 +1,0 @@
-name: Erpepe
-entries:
-- name: ADSL Router
-  version: all
-  user: chochete
-  pass: tiabuena
-  comment: 'Access: Telnet | Privs: Admin'

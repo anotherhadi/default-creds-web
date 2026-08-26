@@ -1,7 +1,0 @@
-name: Andover Controls
-entries:
-- name: Infinity
-  version: any
-  user: acc
-  pass: acc
-  comment: 'Access: Console | Privs: Admin | Building management system'

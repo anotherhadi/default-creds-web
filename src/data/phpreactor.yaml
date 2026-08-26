@@ -1,7 +1,0 @@
-name: PHPReactor
-entries:
-- name: PHPReactor
-  version: 1.2.7
-  user: core
-  pass: phpreactor
-  comment: 'Access: HTTP | http://freshmeat.net/projects/phpreactor/'

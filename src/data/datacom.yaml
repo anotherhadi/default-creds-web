@@ -1,7 +1,0 @@
-name: Datacom
-entries:
-- name: BSASX/101
-  version: all
-  user: ''
-  pass: letmein
-  comment: 'Privs: Admin'

@@ -1,7 +1,0 @@
-name: Zabbix LLC
-entries:
-- name: Zabbix
-  version: ANY
-  user: Admin
-  pass: zabbix
-  comment: 'Access: HTTP | Privs: Administrator | https://www.zabbix.com/documentation/current/manual/quickstart/login'

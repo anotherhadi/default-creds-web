@@ -1,7 +1,0 @@
-name: Accelerated
-entries:
-- name: DSL CPE and DSLAM
-  version: all
-  user: sysadm
-  pass: anicust
-  comment: 'Access: Telnet'

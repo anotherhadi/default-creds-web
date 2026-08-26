@@ -1,7 +1,0 @@
-name: sitara
-entries:
-- name: qosworks
-  version: all
-  user: root
-  pass: ''
-  comment: 'Access: Console | Privs: Admin'

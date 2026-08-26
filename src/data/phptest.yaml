@@ -1,7 +1,0 @@
-name: phpTest
-entries:
-- name: phpTest
-  version: 0.5.6
-  user: admin
-  pass: '1234'
-  comment: 'Access: HTTP | Privs: Admin'

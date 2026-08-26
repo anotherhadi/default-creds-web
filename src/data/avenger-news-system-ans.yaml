@@ -1,8 +1,0 @@
-name: Avenger News System (ANS)
-entries:
-- name: ANS
-  version: all
-  user: ''
-  pass: Administrative
-  comment: 'Access: HTTP | default string: admin:aaLR8vE.jjhss:root@127.0.0.1pass
-    file is located at ans_data/ans.passwd (relative to ans.pl location)'

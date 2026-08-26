@@ -1,7 +1,0 @@
-name: Network Appliance
-entries:
-- name: NetCache
-  version: any
-  user: admin
-  pass: NetCache
-  comment: 'Access: Multi | Privs: Admin'

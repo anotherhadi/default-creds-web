@@ -1,7 +1,0 @@
-name: ETISYS
-entries:
-- name: Printer
-  version: ANY
-  user: admin
-  pass: '1111'
-  comment: 'Access: HTTP | Privs: admin | Works on ETISYS label printers'

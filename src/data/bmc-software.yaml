@@ -1,8 +1,0 @@
-name: BMC Software
-entries:
-- name: Patrol
-  version: all
-  user: Administrator
-  pass: the same all over
-  comment: 'Access: BMC unique | Privs: Admin | this default user normally for ALL
-    system in this area with one Password'

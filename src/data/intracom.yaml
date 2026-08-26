@@ -1,7 +1,0 @@
-name: Intracom
-entries:
-- name: jetSpeed
-  version: 520/520i
-  user: admin
-  pass: admin
-  comment: 'Access: Multi | Privs: Admin | L3x'

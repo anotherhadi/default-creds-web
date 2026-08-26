@@ -1,7 +1,0 @@
-name: Beetel
-entries:
-- name: ADSL Modem
-  version: 220X
-  user: admin
-  pass: password
-  comment: 'Access: Multi | Privs: Admin | Beetel Model Provided By Airtel In India'

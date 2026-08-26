@@ -1,7 +1,0 @@
-name: SysMaster
-entries:
-- name: M10
-  version: all
-  user: admin
-  pass: '12345'
-  comment: 'Access: HTTP | Privs: Admin'

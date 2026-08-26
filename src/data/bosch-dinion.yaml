@@ -1,7 +1,0 @@
-name: Bosch Dinion
-entries:
-- name: IP Camera system
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: HTTP'

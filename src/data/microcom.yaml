@@ -1,7 +1,0 @@
-name: microcom
-entries:
-- name: hdms
-  version: unknown
-  user: system
-  pass: hdms
-  comment: ''

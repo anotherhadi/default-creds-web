@@ -1,7 +1,0 @@
-name: Knox
-entries:
-- name: Arkeia Server
-  version: 4.2.8-2
-  user: root
-  pass: ''
-  comment: 'Privs: Admin'

@@ -1,7 +1,0 @@
-name: Livingstone
-entries:
-- name: Portmaster 2R
-  version: all
-  user: root
-  pass: ''
-  comment: 'Access: Telnet | Privs: Admin'

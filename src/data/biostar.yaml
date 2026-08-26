@@ -1,7 +1,0 @@
-name: Biostar
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: Q54arwms
-  comment: 'Access: Console | Privs: Admin'

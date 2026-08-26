@@ -1,7 +1,0 @@
-name: Aruba
-entries:
-- name: Mobility Controller
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Privs: Administrator | then ''enable'' and default password ''admin'''

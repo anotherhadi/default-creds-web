@@ -1,7 +1,0 @@
-name: Solution 6
-entries:
-- name: Viztopia Accounts
-  version: all
-  user: aaa
-  pass: often blank
-  comment: 'Access: Multi | Privs: Admin'

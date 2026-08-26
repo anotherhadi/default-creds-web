@@ -1,7 +1,0 @@
-name: COM3
-entries:
-- name: OLe
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: User'

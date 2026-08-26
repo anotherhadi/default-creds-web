@@ -1,7 +1,0 @@
-name: Adtech
-entries:
-- name: AX4000
-  version: all
-  user: root
-  pass: ax400
-  comment: 'Privs: Administrator'

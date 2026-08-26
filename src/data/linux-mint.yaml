@@ -1,8 +1,0 @@
-name: Linux Mint
-icon: linuxmint
-entries:
-- name: Linux Mint Live session
-  version: '20.2'
-  user: mint
-  pass: ''
-  comment: 'Access: Uma/CLI/Login | Privs: user'

@@ -1,7 +1,0 @@
-name: Quantex
-entries:
-- name: PC BIOS
-  version: all
-  user: ''
-  pass: teX1
-  comment: 'Access: Console | Privs: Admin'

@@ -1,7 +1,0 @@
-name: Team Xodus
-entries:
-- name: XeniumOS
-  version: '2.3'
-  user: xbox
-  pass: xbox
-  comment: 'Access: FTP | Privs: Admin'

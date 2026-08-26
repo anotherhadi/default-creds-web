@@ -1,7 +1,0 @@
-name: Ramp Networks
-entries:
-- name: WebRamp
-  version: all
-  user: wradmin
-  pass: trancell
-  comment: ''

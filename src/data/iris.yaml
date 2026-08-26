@@ -1,7 +1,0 @@
-name: IRIS
-entries:
-- name: Generic Device
-  version: Multi
-  user: PDP11
-  pass: User
-  comment: 'Access: PDP11'

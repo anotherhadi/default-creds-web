@@ -1,7 +1,0 @@
-name: Milan
-entries:
-- name: mil-sm801p
-  version: all
-  user: root
-  pass: root
-  comment: 'Access: Multi | Privs: Admin'

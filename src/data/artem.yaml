@@ -1,7 +1,0 @@
-name: ARtem
-entries:
-- name: ComPoint - CPD-XT-b
-  version: CPD-XT-b
-  user: ''
-  pass: admin
-  comment: 'Access: Telnet | Privs: Admin'

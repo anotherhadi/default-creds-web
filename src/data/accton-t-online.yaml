@@ -1,7 +1,0 @@
-name: accton t-online
-entries:
-- name: accton
-  version: all
-  user: ''
-  pass: '0'
-  comment: 'Access: Multi | Privs: Admin'

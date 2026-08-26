@@ -1,7 +1,0 @@
-name: Excitel
-entries:
-- name: Wireless AP
-  version: ANY
-  user: admin
-  pass: exc@123
-  comment: 'Access: Multi | Privs: Admin | Default router IP address is 192.168.1.1'

@@ -1,7 +1,0 @@
-name: Buffalo Technology
-entries:
-- name: TeraStation
-  version: all
-  user: admin
-  pass: password
-  comment: 'Access: Multi | Privs: Admin'

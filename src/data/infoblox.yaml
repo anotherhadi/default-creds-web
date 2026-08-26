@@ -1,7 +1,0 @@
-name: Infoblox
-entries:
-- name: INFOBLOX Appliance
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

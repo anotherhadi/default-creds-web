@@ -1,7 +1,0 @@
-name: EMC
-entries:
-- name: DS-4100B
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: Console | Privs: Admin | EMC Fiber Switch'

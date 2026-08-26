@@ -1,7 +1,0 @@
-name: Osicom (Datacom)
-entries:
-- name: Osicom(Datacom)
-  version: all
-  user: sysadm
-  pass: sysadm
-  comment: ''

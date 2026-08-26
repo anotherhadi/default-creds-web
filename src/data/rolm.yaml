@@ -1,7 +1,0 @@
-name: ROLM
-entries:
-- name: phones/phone mail
-  version: all
-  user: ''
-  pass: 111#
-  comment: ''

@@ -1,7 +1,0 @@
-name: Titbas
-entries:
-- name: Generic Device
-  version: SCO
-  user: haasadm
-  pass: lucy99
-  comment: 'Privs: Admin'

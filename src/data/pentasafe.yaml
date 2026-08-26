@@ -1,7 +1,0 @@
-name: PentaSafe
-entries:
-- name: VigilEnt Security Manager
-  version: '3'
-  user: PSEAdmin
-  pass: $secure$
-  comment: 'Access: VigilEnt Security Manager Console | Privs: Admin'

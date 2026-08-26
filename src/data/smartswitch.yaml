@@ -1,7 +1,0 @@
-name: SmartSwitch
-entries:
-- name: Router 250 ssr2500
-  version: v3.0.9
-  user: admin
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

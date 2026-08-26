@@ -1,7 +1,0 @@
-name: Colubris
-entries:
-- name: MSC
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: User | for all Colubris Devices'

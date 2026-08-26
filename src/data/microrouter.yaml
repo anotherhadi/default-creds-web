@@ -1,7 +1,0 @@
-name: microRouter
-entries:
-- name: 900i
-  version: all
-  user: ''
-  pass: letmein
-  comment: 'Access: Console/Multi | Privs: Admin'

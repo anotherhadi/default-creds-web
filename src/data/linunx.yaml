@@ -1,7 +1,0 @@
-name: Linunx
-entries:
-- name: Linux
-  version: all
-  user: Administrator
-  pass: admin
-  comment: 'Access: Console | Privs: Admin'

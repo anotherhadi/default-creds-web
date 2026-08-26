@@ -1,7 +1,0 @@
-name: us21100060
-entries:
-- name: hp omibook 6100
-  version: all
-  user: ''
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

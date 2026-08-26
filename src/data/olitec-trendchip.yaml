@@ -1,7 +1,0 @@
-name: olitec (Trendchip)
-entries:
-- name: sx 202 adsl modem router
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin | Firmware: 2.7.0.9(UE0.B1C)3.3.0.23'

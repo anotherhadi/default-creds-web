@@ -1,7 +1,0 @@
-name: Davolink
-entries:
-- name: DV2020
-  version: all
-  user: user
-  pass: user
-  comment: 'Access: HTTP | Privs: unknown'

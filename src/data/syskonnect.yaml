@@ -1,7 +1,0 @@
-name: SysKonnect
-entries:
-- name: '6616'
-  version: all
-  user: default.password
-  pass: ''
-  comment: 'Privs: Admin'

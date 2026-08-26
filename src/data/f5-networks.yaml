@@ -1,7 +1,0 @@
-name: F5-Networks
-entries:
-- name: BIGIP
-  version: all
-  user: ''
-  pass: ''
-  comment: 'Access: Multi | Privs: Admin'

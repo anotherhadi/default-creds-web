@@ -1,7 +1,0 @@
-name: Datawizard.net
-entries:
-- name: FTPXQ server
-  version: all
-  user: anonymous
-  pass: any@
-  comment: 'Access: FTP | Privs: read/write on c:'

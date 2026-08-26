@@ -1,7 +1,0 @@
-name: PingTel
-entries:
-- name: Xpressa
-  version: 1.2.5-1.2.7.4
-  user: admin
-  pass: ''
-  comment: 'Privs: Admin'

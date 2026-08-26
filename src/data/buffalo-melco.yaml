@@ -1,7 +1,0 @@
-name: Buffalo/MELCO
-entries:
-- name: AirStation WLA-L11
-  version: all
-  user: root (cannot be changed)
-  pass: ''
-  comment: 'Privs: Admin'

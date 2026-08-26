@@ -1,8 +1,0 @@
-name: Google
-icon: google
-entries:
-- name: Urchin
-  version: ANY
-  user: admin
-  pass: urchin
-  comment: 'Access: Administrator | Privs: Admin Access'

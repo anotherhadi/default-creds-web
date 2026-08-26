@@ -1,7 +1,0 @@
-name: Borland/Inprise
-entries:
-- name: Interbase
-  version: any
-  user: SYSDBA
-  pass: masterkey
-  comment: ''

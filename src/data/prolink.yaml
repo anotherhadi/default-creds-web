@@ -1,7 +1,0 @@
-name: Prolink
-entries:
-- name: H9000 Series
-  version: all
-  user: admin
-  pass: password
-  comment: 'Access: HTTP | Privs: Admin'

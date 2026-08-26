@@ -1,7 +1,0 @@
-name: System/32
-entries:
-- name: VOS
-  version: all
-  user: install
-  pass: secret
-  comment: 'Access: Multi | Privs: Admin'

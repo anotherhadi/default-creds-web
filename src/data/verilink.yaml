@@ -1,7 +1,0 @@
-name: Verilink
-entries:
-- name: NE6100-4 NetEngine
-  version: IAD 3.4.8
-  user: ''
-  pass: ''
-  comment: 'Access: Telnet | Privs: Guest'

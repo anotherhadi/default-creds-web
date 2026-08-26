@@ -1,7 +1,0 @@
-name: Quintum Technologies Inc.
-entries:
-- name: Tenor Series
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: Multi | Privs: Admin'

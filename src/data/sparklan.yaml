@@ -1,7 +1,0 @@
-name: Sparklan
-entries:
-- name: Wx-6215 D and G
-  version: all
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: Admin'

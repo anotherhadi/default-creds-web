@@ -1,7 +1,0 @@
-name: Pandatel
-entries:
-- name: EMUX
-  version: all
-  user: admin
-  pass: admin
-  comment: ''

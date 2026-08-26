@@ -1,7 +1,0 @@
-name: mediatrix 2102
-entries:
-- name: mediatrix 2102
-  version: all
-  user: admin
-  pass: '1234'
-  comment: 'Access: HTTP | Privs: Admin'

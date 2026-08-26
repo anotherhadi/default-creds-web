@@ -1,7 +1,0 @@
-name: Spike
-entries:
-- name: CPE
-  version: all
-  user: enable
-  pass: ''
-  comment: 'Access: Console | Privs: Admin'

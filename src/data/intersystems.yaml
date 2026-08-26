@@ -1,7 +1,0 @@
-name: Intersystems
-entries:
-- name: Cache Post-RDMS
-  version: all
-  user: system
-  pass: sys
-  comment: 'Access: Console | Privs: Admin | Change immediately'

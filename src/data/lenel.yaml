@@ -1,7 +1,0 @@
-name: Lenel
-entries:
-- name: OnGuard
-  version: ANY
-  user: admin
-  pass: admin
-  comment: 'Access: HTTP | Privs: admin'

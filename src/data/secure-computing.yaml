@@ -1,7 +1,0 @@
-name: Secure Computing
-entries:
-- name: Webwasher
-  version: all
-  user: admin
-  pass: ''
-  comment: 'Access: HTTP | Privs: Admin'

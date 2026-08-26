@@ -1,7 +1,0 @@
-name: Honeywell
-entries:
-- name: IP Camera system
-  version: all
-  user: administrator
-  pass: '1234'
-  comment: 'Access: HTTP'

@@ -1,7 +1,0 @@
-name: ORiNOCO
-entries:
-- name: Access Server
-  version: '2.01'
-  user: ''
-  pass: orinoco
-  comment: 'Access: Telnet | Privs: Admin'

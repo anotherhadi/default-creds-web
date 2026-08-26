@@ -1,7 +1,0 @@
-name: TopLayer
-entries:
-- name: AppSwitch 2500
-  version: all
-  user: siteadmin
-  pass: toplayer
-  comment: 'Privs: Admin'

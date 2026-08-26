@@ -1,7 +1,0 @@
-name: TextPortal
-entries:
-- name: TextPortal
-  version: '0.8'
-  user: god2
-  pass: '12345'
-  comment: 'Access: HTTP | Privs: Admin'
