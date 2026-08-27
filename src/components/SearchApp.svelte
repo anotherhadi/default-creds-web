@@ -75,18 +75,6 @@
       results = data.results;
       totalPages = data.pagination.totalPages;
       totalResults = data.pagination.totalResults;
-      if (typeof window !== "undefined" && (window as any).umami) {
-        (window as any).umami.track("search", {
-          query: lastQuery,
-          results: totalResults,
-          hasResults: totalResults > 0,
-        });
-        if (totalResults === 0) {
-          (window as any).umami.track("search_no_results", {
-            query: lastQuery,
-          });
-        }
-      }
     } catch (e) {
       console.error("Search error:", e);
       results = [];

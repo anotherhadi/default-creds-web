@@ -14,9 +14,6 @@ const {
   description = "Open-source database of default credentials for pentesters and researchers. Find factory-set passwords for any device or software.",
   ogImage = `${Astro.site ?? "https://default-creds.hadi.icu"}/og.png`
 } = Astro.props;
-
-const umamiUrl = process.env.PUBLIC_UMAMI_URL;
-const umamiId = process.env.PUBLIC_UMAMI_WEBSITE_ID;
 ---
 
 <html lang="en">
@@ -59,13 +56,4 @@ const umamiId = process.env.PUBLIC_UMAMI_WEBSITE_ID;
       <slot />
     </div>
   </body>
-
-  {umamiUrl && umamiId && (
-  <script
-    defer
-    src={`${umamiUrl}/script.js`}
-    data-website-id={umamiId}
-    is:inline
-  />
-  )}
 </html>

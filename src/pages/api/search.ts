@@ -91,16 +91,13 @@ export function getAllData(): CredentialEntry[] {
   return allResults;
 }
 
-export const GET: APIRoute = async ({ url, request }) => {
+export const GET: APIRoute = async ({ url }) => {
   const query = url.searchParams.get("q")?.trim().toLowerCase() || "";
   const page = Math.max(1, parseInt(url.searchParams.get("page") || "1"));
   const size = Math.min(
     50,
     Math.max(1, parseInt(url.searchParams.get("size") || "10")),
   );
-
-  const dnt = request.headers.get("DNT") === "1"
-    || request.headers.get("Sec-GPC") === "1";
 
   const allEntries = getAllData();
 
@@ -110,15 +107,6 @@ export const GET: APIRoute = async ({ url, request }) => {
     filtered = allEntries.filter((entry) =>
       queryTokens.every((token) => entry.searchStr.includes(token)),
     );
-  }
-
-  // NOTE: Server-side tracking is intentionally only triggered when DNT/GPC is active.
-  // When DNT is off, the client handles tracking via Umami's JS snippet.
-  // When DNT is on, the JS snippet is suppressed, so we fall back to server-side tracking
-  // to log search queries (query string + result count only, no user data) in order to
-  // identify missing manufacturers/products and improve the dataset.
-  if (query && dnt) {
-    await trackSearchServerSide(query, filtered.length);
   }
 
   const totalResults = filtered.length;
@@ -146,59 +134,3 @@ export const GET: APIRoute = async ({ url, request }) => {
     },
   );
 };
-
-async function trackSearchServerSide(query: string, results: number) {
-  const umamiUrl = process.env.UMAMI_URL;
-  const umamiId = process.env.UMAMI_WEBSITE_ID;
-
-  if (!umamiUrl || !umamiId) return;
-
-  try {
-    await fetch(`${umamiUrl}/api/send`, {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        "User-Agent": "Mozilla/5.0 (compatible; default-creds-server/1.0)",
-      },
-      body: JSON.stringify({
-        type: "event",
-        payload: {
-          website: umamiId,
-          hostname: "default-creds.hadi.icu",
-          url: "/api/search",
-          name: "search",
-          data: {
-            query,
-            results,
-            hasResults: results > 0,
-            source: "server",
-          },
-        },
-      }),
-    });
-    if (results === 0) {
-      await fetch(`${umamiUrl}/api/send`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "User-Agent": "Mozilla/5.0 (compatible; default-creds-server/1.0)",
-        },
-        body: JSON.stringify({
-          type: "event",
-          payload: {
-            website: umamiId,
-            hostname: "default-creds.hadi.icu",
-            url: "/api/search",
-            name: "search_no_results",
-            data: {
-              query,
-              source: "server",
-            },
-          },
-        }),
-      });
-    }
-  } catch (e) {
-    console.error("Umami server-side tracking failed:", e);
-  }
-}
